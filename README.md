@@ -47,6 +47,14 @@ In a **deterministic environment**, the outcome of an action is predictable and 
 3. **Performance:** In actual games, Q-tables for both environment types perform similarly, scoring high cumulative rewards despite starting position differences.
 4. **Comparison:** Double Q-learning shows less variability in cumulative rewards over time compared to Q-learning.
 
+##### Random Agent:
+https://github.com/imalhotra15/Q-Learning-Grid-World/assets/118845522/172ad376-0bde-42c4-917b-f21af956f59c
+
+##### Trained Agent:
+https://github.com/imalhotra15/Q-Learning-Grid-World/assets/118845522/f1951dc2-2e75-407c-9ca8-a5cef8bc987f
+
+
+
 ![image](https://github.com/imalhotra15/Q-Learning-Grid-World/assets/118845522/f07c8bff-9811-43a1-9ea7-3f81c555d2df)
 
 ![image](https://github.com/imalhotra15/Q-Learning-Grid-World/assets/118845522/347bff69-b837-4c86-b62a-b704e3da6f96)
